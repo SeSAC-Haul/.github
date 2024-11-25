@@ -10,6 +10,6 @@
 
 
 
-### [Haul Notion 보러가기](https://www.notion.so/11038cc0d0e9801e9702e1b4fa1393f9?pvs=4)
-### [Frontend Repository 보러가기](https://github.com/SeSAC-Haul/DoToli-frontend)
-### [BackEnd Repository 보러가기](https://github.com/SeSAC-Haul/DoToli-backend)
+### 📚 [Haul Notion 보러가기](https://www.notion.so/11038cc0d0e9801e9702e1b4fa1393f9?pvs=4)
+### 🎥 [Frontend Repository 보러가기](https://github.com/SeSAC-Haul/DoToli-frontend)
+### 💻 [BackEnd Repository 보러가기](https://github.com/SeSAC-Haul/DoToli-backend)
